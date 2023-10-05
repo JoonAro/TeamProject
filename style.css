@@ -15,3 +15,9 @@ body {
 h1 {
     font-size: 0.875rem;
 }
+
+img {
+    height: 500px;
+    width: auto;
+}
+
